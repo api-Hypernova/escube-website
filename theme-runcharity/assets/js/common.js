@@ -160,7 +160,7 @@ function pulse_(e) {
 function pulse(e) {
     return e >= 1 ? 1 : 0 >= e ? 0 : (1 == pulseNormalize && (pulseNormalize /= pulse_(1)), pulse_(e))
 }
-if (!jQuery(".enable_smoothscroll").length && jQuery(window).width() > 1024) {
+if (jQuery(".enable_smoothscroll").length && jQuery(window).width() > 1024) {
     var framerate = 150,
         animtime = 4e3,
         stepsize = 200,
