@@ -116,6 +116,7 @@ theme-runcharity/assets/fonts/glyphicons-halflings-regular.woff
 theme-runcharity/assets/fonts/glyphicons-halflings-regular.woff2
 theme-runcharity/assets/img/intro.jpg
 theme-runcharity/assets/js/bootstrap.min.js
+theme-runcharity/assets/js/chezirish_script.js
 theme-runcharity/assets/js/common.js
 theme-runcharity/assets/js/jquery.localScroll.min.js
 theme-runcharity/assets/js/jquery.magnific-popup.min.js
@@ -162,8 +163,8 @@ theme-runcharity/backgrounds/screenshot_800097.png
 theme-runcharity/backgrounds/screenshot_837865.png
 theme-runcharity/backgrounds/screenshot_893463.png
 theme-runcharity/backgrounds/screenshot_908804.png
-theme-runcharity/index.php
-theme-runcharity/members/6755.png
+theme-runcharity/index.html
 theme-runcharity/members/choko.png
+theme-runcharity/members/plasma.png
 theme-runcharity/members/vienna.jpeg
 theme-runcharity/process.php
