@@ -110,7 +110,7 @@
 			<div class="col-md-12">
 				<!-- Title -->
 				<div class="maintitle">
-					<h3 class="section-title"><strong>FIND <span class="lighter">CAUSE</span></strong> to support on your run</h3>
+                                        <h3 class="section-title"><strong>FIND <span class="lighter">CAUSE</span></strong> to support on your run</h3>
 					<p class="lead">
 						Mentum lectus id turpis suscipit, ut egestas magna volutpat. Donec a purus tellus. Nunc ut dolor eu est gravida auctor quis vitae sapien.
 					</p>
