@@ -32,9 +32,9 @@ function hasClass(element, cls) {
 
 
 addEventListener('click', function(e) {
-	 if(hasClass(e.target, 'member1')){
+     if(hasClass(e.target, 'member1')){
 	 	modal.style.display = "block";
-	 	member1.innerHTML = "1";
+        member1.innerHTML = "Testing testing 123";
 	 }
 	  if(hasClass(e.target, 'member2')){
 	 	modal.style.display = "block";
